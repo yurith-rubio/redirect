@@ -6,7 +6,6 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  // window.location.href = "https://yurithrubio.myshopify.com/account/register"
 
   return (
     <>
